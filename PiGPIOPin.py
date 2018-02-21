@@ -1,5 +1,5 @@
 # Lookup table for Raspberry Pi Pin numbers for  BCM numbers
-Means can use Pin numbers with libraries like GPIOZero
+# Means can use Pin numbers with libraries like GPIOZero
 PIN3=2
 PIN5=3
 PIN7=4
